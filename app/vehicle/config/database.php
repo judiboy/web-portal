@@ -5,7 +5,7 @@ class Database{
     private $host = "localhost";
     private $db_name = "cmsc_team_alpha";
     private $username = "root";
-    private $password = "trians";
+    private $password = "";
     public $conn;
   
     // get the database connection
